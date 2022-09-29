@@ -6,6 +6,7 @@ uri: rules-to-better-workflow
 index:
 - ask-for-help
 - do-you-use-timeboxing-to-avoid-wasted-time
+- ai-pair-programming
 
 ---
 
