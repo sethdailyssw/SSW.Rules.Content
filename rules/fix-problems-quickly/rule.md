@@ -29,13 +29,10 @@ When someone brings to your attention that they are not happy with something, it
 
 <!--endintro-->
 
-> I am shocked I still have miscommunications with my wife almost everyday... something minor seems to pop up, and that's with someone I get along with, understand and have been married to for 20 years.
-> 
-> Many people speak English as a 2nd language. I believe miscommunications are not limited to the English language... it's a human thing... different experiences, intentions, and expectations will end up with different interpretations of words... so it is more uncommon to have 2 people understand each other perfectly on an issue. If a day goes by without a miscommunication, that would be a shock.
-> 
-> Have ❤️ and patience.
-> 
-> **Adam Cogan, SSW**
+> I am shocked I still have miscommunications with my wife almost everyday... something minor seems to pop up, and that's with someone I get along with, understand and have been married to for 20 years.  
+Many people speak English as a 2nd language. I believe miscommunications are not limited to the English language... it's a human thing... different experiences, intentions, and expectations will end up with different interpretations of words... so it is more uncommon to have 2 people understand each other perfectly on an issue. If a day goes by without a miscommunication, that would be a shock.  
+Have ❤️ and patience.   
+**Adam Cogan, SSW**
 
 ![Figure: Miscommunications happen when people look at things from different angles, what looks like a 6 to some, looks like a 9 to others!](Miscommunication6and9.png)
 
