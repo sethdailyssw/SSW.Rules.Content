@@ -11,12 +11,6 @@ index:
 - get-chatgpt-to-answer-step-by-step
 - use-natural-language-with-chatgpt
 - choose-the-right-verbs-in-prompts
-- define-intent-in-prompts
-- test-prompts-then-iterate
-- avoid-leading-prompt-questions
-- generating-multiple-responses-from-chatgpt
-- critical-agent
-- chained-prompting
 
 ---
 
