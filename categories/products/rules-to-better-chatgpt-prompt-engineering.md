@@ -9,6 +9,10 @@ index:
 - use-different-tones
 - shot-prompts
 - get-chatgpt-to-answer-step-by-step
+- use-natural-language-with-chatgpt
+- choose-the-right-verbs-in-prompts
+- define-intent-in-prompts
+- test-prompts-then-iterate
 
 ---
 
