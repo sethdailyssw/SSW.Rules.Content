@@ -10,6 +10,7 @@ index:
   - shot-prompts
   - get-chatgpt-to-answer-step-by-step
   - choose-the-right-verbs-in-prompts
+  - define-intent-in-prompts
 
 ---
 
