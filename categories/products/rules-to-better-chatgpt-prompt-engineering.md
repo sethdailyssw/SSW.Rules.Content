@@ -7,16 +7,6 @@ index:
 - keep-prompts-concise-and-clear
 - give-chatgpt-a-role
 - use-different-tones
-- shot-prompts
-- get-chatgpt-to-answer-step-by-step
-- use-natural-language-with-chatgpt
-- choose-the-right-verbs-in-prompts
-- define-intent-in-prompts
-- test-prompts-then-iterate
-- avoid-leading-prompt-questions
-- generating-multiple-responses-from-chatgpt
-- critical-agent
-- chained-prompting
 
 ---
 
