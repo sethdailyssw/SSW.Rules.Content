@@ -8,6 +8,7 @@ index:
   - give-chatgpt-a-role
   - use-different-tones
   - shot-prompts
+  - get-chatgpt-to-answer-step-by-step
 
 ---
 
