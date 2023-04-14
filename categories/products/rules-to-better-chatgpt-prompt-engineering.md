@@ -7,6 +7,8 @@ index:
 - keep-prompts-concise-and-clear
 - give-chatgpt-a-role
 - use-different-tones
+- shot-prompts
+- get-chatgpt-to-answer-step-by-step
 
 ---
 
