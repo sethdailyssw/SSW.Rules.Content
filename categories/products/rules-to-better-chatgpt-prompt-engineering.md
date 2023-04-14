@@ -6,8 +6,7 @@ uri: rules-to-better-chatgpt-prompt-engineering
 index:
 - keep-prompts-concise-and-clear
 - tell-chatgpt-to-ask-questions
-- give-chatgpt-a-role
-- use-different-tones
+
 
 ---
 
