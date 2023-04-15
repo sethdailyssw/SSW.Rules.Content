@@ -12,6 +12,7 @@ index:
   - choose-the-right-verbs-in-prompts
   - define-intent-in-prompts
   - test-prompts-then-iterate
+  - avoid-leading-prompt-questions
 
 ---
 
