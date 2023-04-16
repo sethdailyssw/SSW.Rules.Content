@@ -12,8 +12,7 @@ index:
   - choose-the-right-verbs-in-prompts
   - define-intent-in-prompts
   - test-prompts-then-iterate
-  - generating-multiple-responses-from-chatgpt
-  - critical-agent
+
 ---
 
 ChatGPT Prompt Engineering is an essential aspect of maximizing the effectiveness and user experience of AI-driven language models like OpenAI's Generative Pre-trained Transformers (GPT). 
