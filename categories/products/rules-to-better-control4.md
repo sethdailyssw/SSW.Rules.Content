@@ -14,6 +14,20 @@ index:
 - use-emojis
 - do-you-know-what-to-check-if-your-control4-director-is-running-slowly
 - control4-get-help
+- keep-prompts-concise-and-clear
+- tell-chatgpt-to-ask-questions
+- give-chatgpt-a-role
+- use-different-tones
+- shot-prompts
+- get-chatgpt-to-answer-step-by-step
+- use-natural-language-with-chatgpt
+- choose-the-right-verbs-in-prompts
+- define-intent-in-prompts
+- test-prompts-then-iterate
+- avoid-leading-prompt-questions
+- generating-multiple-responses-from-chatgpt
+- critical-agent
+- chained-prompting
 ---
 
 More info at [Smart Office & Smart Home consulting page](https://www.ssw.com.au/ssw/Consulting/Smart-Office-and-Smart-Home.aspx). While running a Control4 showroom in Sydney, our customers and SSW consultants have come across some issues that you can see on [Suggestions to Control4](https://bettersoftwaresuggestions.com/category/control4/).
